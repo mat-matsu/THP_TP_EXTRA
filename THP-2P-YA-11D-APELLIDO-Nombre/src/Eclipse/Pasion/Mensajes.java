@@ -1,0 +1,11 @@
+package Eclipse.Pasion;
+
+public enum Mensajes {
+	COMPILAR_OK,
+	EJECUTAR_OK,
+	ERROR_INEXISTENTE,
+	ERROR_EN_EJECUCION,
+	ERROR_NO_COMPILA,
+	ERROR_NO_HAY_MAIN,
+	ERROR_NO_HAY_RAM
+}
